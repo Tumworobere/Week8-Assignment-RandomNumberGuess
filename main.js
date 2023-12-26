@@ -24,13 +24,13 @@ function getRandomNumber(min, max) {
   }
 
   // Example usage with different guess numbers:
-let userGuess1 = 50;
+let userGuess1 = 90;
 console.log(checkGuess(userGuess1));
 
 let userGuess2 = 80;
 console.log(checkGuess(userGuess2));
 
-let userGuess3 = 1;
+let userGuess3 = 2;
 console.log(checkGuess(userGuess3));
 
 // Example with a correct guess
